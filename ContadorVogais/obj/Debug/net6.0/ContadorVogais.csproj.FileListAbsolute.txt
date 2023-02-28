@@ -1,0 +1,15 @@
+D:\Aulas\Programacao 4\ContadorVogais\bin\Debug\net6.0\ContadorVogais.exe
+D:\Aulas\Programacao 4\ContadorVogais\bin\Debug\net6.0\ContadorVogais.deps.json
+D:\Aulas\Programacao 4\ContadorVogais\bin\Debug\net6.0\ContadorVogais.runtimeconfig.json
+D:\Aulas\Programacao 4\ContadorVogais\bin\Debug\net6.0\ContadorVogais.dll
+D:\Aulas\Programacao 4\ContadorVogais\bin\Debug\net6.0\ContadorVogais.pdb
+D:\Aulas\Programacao 4\ContadorVogais\obj\Debug\net6.0\ContadorVogais.csproj.AssemblyReference.cache
+D:\Aulas\Programacao 4\ContadorVogais\obj\Debug\net6.0\ContadorVogais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Programacao 4\ContadorVogais\obj\Debug\net6.0\ContadorVogais.AssemblyInfoInputs.cache
+D:\Aulas\Programacao 4\ContadorVogais\obj\Debug\net6.0\ContadorVogais.AssemblyInfo.cs
+D:\Aulas\Programacao 4\ContadorVogais\obj\Debug\net6.0\ContadorVogais.csproj.CoreCompileInputs.cache
+D:\Aulas\Programacao 4\ContadorVogais\obj\Debug\net6.0\ContadorVogais.dll
+D:\Aulas\Programacao 4\ContadorVogais\obj\Debug\net6.0\refint\ContadorVogais.dll
+D:\Aulas\Programacao 4\ContadorVogais\obj\Debug\net6.0\ContadorVogais.pdb
+D:\Aulas\Programacao 4\ContadorVogais\obj\Debug\net6.0\ContadorVogais.genruntimeconfig.cache
+D:\Aulas\Programacao 4\ContadorVogais\obj\Debug\net6.0\ref\ContadorVogais.dll

@@ -1,0 +1,15 @@
+D:\Aulas\Programacao 4\ImprimiConsoantes\bin\Debug\net6.0\ImprimiConsoantes.exe
+D:\Aulas\Programacao 4\ImprimiConsoantes\bin\Debug\net6.0\ImprimiConsoantes.deps.json
+D:\Aulas\Programacao 4\ImprimiConsoantes\bin\Debug\net6.0\ImprimiConsoantes.runtimeconfig.json
+D:\Aulas\Programacao 4\ImprimiConsoantes\bin\Debug\net6.0\ImprimiConsoantes.dll
+D:\Aulas\Programacao 4\ImprimiConsoantes\bin\Debug\net6.0\ImprimiConsoantes.pdb
+D:\Aulas\Programacao 4\ImprimiConsoantes\obj\Debug\net6.0\ImprimiConsoantes.csproj.AssemblyReference.cache
+D:\Aulas\Programacao 4\ImprimiConsoantes\obj\Debug\net6.0\ImprimiConsoantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Programacao 4\ImprimiConsoantes\obj\Debug\net6.0\ImprimiConsoantes.AssemblyInfoInputs.cache
+D:\Aulas\Programacao 4\ImprimiConsoantes\obj\Debug\net6.0\ImprimiConsoantes.AssemblyInfo.cs
+D:\Aulas\Programacao 4\ImprimiConsoantes\obj\Debug\net6.0\ImprimiConsoantes.csproj.CoreCompileInputs.cache
+D:\Aulas\Programacao 4\ImprimiConsoantes\obj\Debug\net6.0\ImprimiConsoantes.dll
+D:\Aulas\Programacao 4\ImprimiConsoantes\obj\Debug\net6.0\refint\ImprimiConsoantes.dll
+D:\Aulas\Programacao 4\ImprimiConsoantes\obj\Debug\net6.0\ImprimiConsoantes.pdb
+D:\Aulas\Programacao 4\ImprimiConsoantes\obj\Debug\net6.0\ImprimiConsoantes.genruntimeconfig.cache
+D:\Aulas\Programacao 4\ImprimiConsoantes\obj\Debug\net6.0\ref\ImprimiConsoantes.dll

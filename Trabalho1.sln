@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora.csproj", "{BA927827-2627-4203-895D-3BE6628D8915}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculadora", "Calculadora.csproj", "{BA927827-2627-4203-895D-3BE6628D8915}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContadorVogais", "..\ContadorVogais\ContadorVogais.csproj", "{428CBAFD-04F4-470C-8176-C400AA8288E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImprimiVogais", "ImprimiVogais\ImprimiVogais.csproj", "{7A26AE65-5ACE-4E05-8CFD-39FEE194C04B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImprimiVogais", "..\ImprimiVogais\ImprimiVogais.csproj", "{18492953-D860-4A66-84B2-9CCC4AC631F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImprimiConsoantes", "ImprimiConsoantes\ImprimiConsoantes.csproj", "{CF548324-55FA-4F50-A84B-8406BB53AD8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImprimiConsoantes", "..\ImprimiConsoantes\ImprimiConsoantes.csproj", "{2F4E4FFE-02BB-4712-A00D-BDEA1226E363}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContadorVogais", "ContadorVogais\ContadorVogais.csproj", "{B4A10367-A95D-48AF-B758-BD6061C752E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +21,18 @@ Global
 		{BA927827-2627-4203-895D-3BE6628D8915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA927827-2627-4203-895D-3BE6628D8915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA927827-2627-4203-895D-3BE6628D8915}.Release|Any CPU.Build.0 = Release|Any CPU
-		{428CBAFD-04F4-470C-8176-C400AA8288E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{428CBAFD-04F4-470C-8176-C400AA8288E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{428CBAFD-04F4-470C-8176-C400AA8288E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{428CBAFD-04F4-470C-8176-C400AA8288E0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{18492953-D860-4A66-84B2-9CCC4AC631F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{18492953-D860-4A66-84B2-9CCC4AC631F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{18492953-D860-4A66-84B2-9CCC4AC631F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{18492953-D860-4A66-84B2-9CCC4AC631F4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2F4E4FFE-02BB-4712-A00D-BDEA1226E363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2F4E4FFE-02BB-4712-A00D-BDEA1226E363}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2F4E4FFE-02BB-4712-A00D-BDEA1226E363}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2F4E4FFE-02BB-4712-A00D-BDEA1226E363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A26AE65-5ACE-4E05-8CFD-39FEE194C04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A26AE65-5ACE-4E05-8CFD-39FEE194C04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A26AE65-5ACE-4E05-8CFD-39FEE194C04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A26AE65-5ACE-4E05-8CFD-39FEE194C04B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF548324-55FA-4F50-A84B-8406BB53AD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF548324-55FA-4F50-A84B-8406BB53AD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF548324-55FA-4F50-A84B-8406BB53AD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF548324-55FA-4F50-A84B-8406BB53AD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A10367-A95D-48AF-B758-BD6061C752E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A10367-A95D-48AF-B758-BD6061C752E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A10367-A95D-48AF-B758-BD6061C752E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A10367-A95D-48AF-B758-BD6061C752E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
